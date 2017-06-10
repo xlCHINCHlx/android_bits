@@ -1,8 +1,0 @@
-﻿docker run \
--ti \
---net=none \
---privileged \
--v $PWD:/$PWD \
---workdir $PWD \
-chinch/nano:atomic \
-/usr/bin/nano

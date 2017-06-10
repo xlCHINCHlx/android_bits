@@ -1,5 +1,4 @@
-#! /system/bin/sh
-
+#!/system/bin/sh
 am start com.immediasemi.android.blink
 sleep 20
 input tap 1250 1300

@@ -1,3 +1,2 @@
-#! /System/bin/sh
-
+#!/system/bin/sh
 tcpdump -i wlan0 -s 1514 -nSvX 
